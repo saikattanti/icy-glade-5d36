@@ -13,7 +13,7 @@ bindings = [
 
 [[migrations]]
 tag = "v1"
-new_classes = ["Globe"]
+new_sqlite_classes = ["Globe"]
 
 [assets]
 directory = "public"
